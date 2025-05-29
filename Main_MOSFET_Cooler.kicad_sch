@@ -1459,13 +1459,13 @@
 		(uuid "2dbbd176-b010-4939-bbef-680764f56da7")
 	)
 	(junction
-		(at 90.805 86.36)
+		(at 91.44 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "37003b10-8dce-4404-b8bc-ede0f9f26217")
 	)
 	(junction
-		(at 105.41 74.295)
+		(at 105.41 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d539a42-70c3-4cae-a1b7-9be5ffed7c36")
@@ -1483,7 +1483,7 @@
 		(uuid "d3be6bb6-12d0-49f7-8e56-bc9d07f427f7")
 	)
 	(junction
-		(at 104.775 96.52)
+		(at 105.41 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7b85702-4da5-42d7-9e7a-2d6ed27cbfe4")
@@ -1500,7 +1500,7 @@
 	)
 	(wire
 		(pts
-			(xy 79.375 93.345) (xy 79.375 88.9)
+			(xy 80.01 93.98) (xy 80.01 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1510,7 +1510,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.775 106.68) (xy 104.775 96.52)
+			(xy 105.41 106.68) (xy 105.41 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1520,7 +1520,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.775 86.995) (xy 104.775 90.805)
+			(xy 105.41 87.63) (xy 105.41 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1540,7 +1540,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 74.295) (xy 98.425 74.295)
+			(xy 105.41 74.93) (xy 99.06 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1550,7 +1550,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.835 86.36) (xy 86.36 86.36)
+			(xy 77.47 86.36) (xy 86.36 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1560,7 +1560,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 86.36) (xy 86.36 88.265)
+			(xy 86.36 86.36) (xy 86.36 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1570,7 +1570,7 @@
 	)
 	(wire
 		(pts
-			(xy 112.395 96.52) (xy 112.395 92.075)
+			(xy 113.03 96.52) (xy 113.03 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1580,17 +1580,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.805 90.805) (xy 104.775 90.805)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5680fb3d-2398-4af2-ab3c-583c180e9c1d")
-	)
-	(wire
-		(pts
-			(xy 105.41 65.405) (xy 105.41 74.295)
+			(xy 105.41 66.04) (xy 105.41 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1610,7 +1600,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.775 96.52) (xy 112.395 96.52)
+			(xy 105.41 96.52) (xy 113.03 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1620,7 +1610,7 @@
 	)
 	(wire
 		(pts
-			(xy 98.425 74.295) (xy 98.425 81.28)
+			(xy 99.06 74.93) (xy 99.06 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1630,7 +1620,7 @@
 	)
 	(wire
 		(pts
-			(xy 108.585 65.405) (xy 105.41 65.405)
+			(xy 109.22 66.04) (xy 105.41 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1640,7 +1630,7 @@
 	)
 	(wire
 		(pts
-			(xy 112.395 74.295) (xy 112.395 81.915)
+			(xy 113.03 74.93) (xy 113.03 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1660,7 +1650,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 95.885) (xy 86.36 99.06)
+			(xy 86.36 96.52) (xy 86.36 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1670,7 +1660,7 @@
 	)
 	(wire
 		(pts
-			(xy 108.585 106.68) (xy 104.775 106.68)
+			(xy 109.22 106.68) (xy 105.41 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1680,7 +1670,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 74.295) (xy 112.395 74.295)
+			(xy 105.41 74.93) (xy 113.03 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1690,7 +1680,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.805 90.805) (xy 90.805 86.36)
+			(xy 91.44 91.44) (xy 91.44 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1700,7 +1690,17 @@
 	)
 	(wire
 		(pts
-			(xy 98.425 91.44) (xy 98.425 96.52)
+			(xy 91.44 91.44) (xy 105.41 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a41b4e03-109d-4ed2-a8e6-9397e877ad6c")
+	)
+	(wire
+		(pts
+			(xy 99.06 91.44) (xy 99.06 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1710,7 +1710,7 @@
 	)
 	(wire
 		(pts
-			(xy 98.425 96.52) (xy 104.775 96.52)
+			(xy 99.06 96.52) (xy 105.41 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1730,7 +1730,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 86.36) (xy 90.805 86.36)
+			(xy 86.36 86.36) (xy 91.44 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1740,7 +1740,7 @@
 	)
 	(wire
 		(pts
-			(xy 79.375 88.9) (xy 76.835 88.9)
+			(xy 80.01 88.9) (xy 77.47 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1769,7 +1769,7 @@
 		(uuid "6521a4bb-01ce-44fe-a4ed-4452b325e81b")
 	)
 	(label "NTC-"
-		(at 146.05 85.725 90)
+		(at 146.05 86.36 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1779,7 +1779,7 @@
 		(uuid "7c48225a-8d94-446f-b2b8-993a73ffeeac")
 	)
 	(label "MOS-"
-		(at 104.775 104.775 90)
+		(at 105.41 105.41 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1789,7 +1789,7 @@
 		(uuid "ae58a020-0882-43c4-b347-8266f2a8f53f")
 	)
 	(label "NTC+"
-		(at 143.51 85.725 90)
+		(at 143.51 86.36 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1925,6 +1925,69 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 38.1 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24b451d4-1ff6-4a5f-9203-9dc295fe620b")
+		(property "Reference" "H7"
+			(at 41.275 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 41.275 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 38.1 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Main_MOSFET_Cooler"
+				(path "/c8b30e07-a7f6-4772-ae04-7a7a7d27b121"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Thermistor_NTC")
 		(at 138.43 90.17 0)
 		(unit 1)
@@ -1993,16 +2056,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 86.36 92.075 0)
+		(lib_id "Mechanical:MountingHole")
+		(at 38.1 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "33c41bf1-180a-41c8-bfd5-229222c99a6a")
-		(property "Reference" "R1"
-			(at 88.265 93.345 0)
+		(fields_autoplaced yes)
+		(uuid "3159a437-1e5f-4872-978c-9c974f4816f3")
+		(property "Reference" "H8"
+			(at 41.275 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2010,8 +2074,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
-			(at 88.265 95.885 0)
+		(property "Value" "MountingHole"
+			(at 41.275 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2019,8 +2083,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 84.582 92.075 90)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 38.1 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2029,7 +2093,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 92.075 0)
+			(at 38.1 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2038,7 +2102,69 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 92.075 0)
+			(at 38.1 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Main_MOSFET_Cooler"
+				(path "/c8b30e07-a7f6-4772-ae04-7a7a7d27b121"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 86.36 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "33c41bf1-180a-41c8-bfd5-229222c99a6a")
+		(property "Reference" "R1"
+			(at 88.265 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100k"
+			(at 88.265 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 84.582 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2125,7 +2251,7 @@
 	)
 	(symbol
 		(lib_id "Device:Q_NMOS_GDS")
-		(at 95.885 86.36 0)
+		(at 96.52 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2133,7 +2259,7 @@
 		(dnp no)
 		(uuid "60a808a6-80a8-413e-a912-9dd500be85f0")
 		(property "Reference" "Q1"
-			(at 99.695 77.4699 0)
+			(at 100.33 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2142,7 +2268,7 @@
 			)
 		)
 		(property "Value" "TK100E06N1"
-			(at 99.695 80.01 0)
+			(at 100.33 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2150,8 +2276,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
-			(at 100.965 83.82 0)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabUp"
+			(at 101.6 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2160,7 +2286,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.885 86.36 0)
+			(at 96.52 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2169,7 +2295,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.885 86.36 0)
+			(at 96.52 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2322,7 +2448,7 @@
 	)
 	(symbol
 		(lib_id "Device:Q_NMOS_GDS")
-		(at 109.855 86.995 0)
+		(at 110.49 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2330,7 +2456,7 @@
 		(dnp no)
 		(uuid "7365eb16-d4e4-480d-b5ea-4aead16db4ec")
 		(property "Reference" "Q2"
-			(at 114.3 77.47 0)
+			(at 114.935 78.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2339,7 +2465,7 @@
 			)
 		)
 		(property "Value" "TK100E06N1"
-			(at 114.3 80.01 0)
+			(at 114.935 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2347,8 +2473,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
-			(at 114.935 84.455 0)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabUp"
+			(at 115.57 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2357,7 +2483,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 109.855 86.995 0)
+			(at 110.49 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2366,7 +2492,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.855 86.995 0)
+			(at 110.49 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2419,7 +2545,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
 			(at 143.51 76.2 0)
 			(effects
 				(font
@@ -2525,7 +2651,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 113.665 65.405 0)
+		(at 114.3 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2534,7 +2660,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e391627-9c75-4c46-b185-852492938381")
 		(property "Reference" "J2"
-			(at 116.84 64.1349 0)
+			(at 116.84 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2542,8 +2668,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MOS+"
-			(at 116.84 66.6749 0)
+		(property "Value" "MOS-"
+			(at 116.84 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2551,8 +2677,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Akizuki_ScrewTerminal:ScrewTerminal_01x01_PCB-20"
-			(at 113.665 65.405 0)
+		(property "Footprint" "AM_Conn_ScrewTerminal:ScrewTerminal_01x01_PCB-20"
+			(at 114.3 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2561,7 +2687,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.665 65.405 0)
+			(at 114.3 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2570,7 +2696,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.665 65.405 0)
+			(at 114.3 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2581,7 +2707,7 @@
 			(uuid "2a2e0626-834c-4424-afb8-745c45239265")
 		)
 		(instances
-			(project ""
+			(project "Main_MOSFET_Cooler"
 				(path "/c8b30e07-a7f6-4772-ae04-7a7a7d27b121"
 					(reference "J2")
 					(unit 1)
@@ -2591,7 +2717,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 71.755 86.36 0)
+		(at 72.39 86.36 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2601,7 +2727,7 @@
 		(fields_autoplaced yes)
 		(uuid "91fd40c9-7930-499c-9f67-340b9948e2d8")
 		(property "Reference" "J1"
-			(at 71.755 80.01 0)
+			(at 72.39 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2609,15 +2735,15 @@
 			)
 		)
 		(property "Value" "Gate"
-			(at 71.755 82.55 0)
+			(at 72.39 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
-			(at 71.755 86.36 0)
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+			(at 72.39 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2626,7 +2752,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 71.755 86.36 0)
+			(at 72.39 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2635,7 +2761,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 71.755 86.36 0)
+			(at 72.39 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2722,7 +2848,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 79.375 93.345 0)
+		(at 80.01 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2731,7 +2857,7 @@
 		(fields_autoplaced yes)
 		(uuid "9d5d3fcc-f84c-4b45-b004-bd164264e946")
 		(property "Reference" "#PWR01"
-			(at 79.375 99.695 0)
+			(at 80.01 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2740,7 +2866,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 79.375 97.79 0)
+			(at 80.01 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2748,7 +2874,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 79.375 93.345 0)
+			(at 80.01 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2757,7 +2883,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 79.375 93.345 0)
+			(at 80.01 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2766,7 +2892,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 79.375 93.345 0)
+			(at 80.01 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2981,7 +3107,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x01")
-		(at 113.665 106.68 0)
+		(at 114.3 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2990,7 +3116,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed498df9-4dd3-4463-994d-79c0c23547c7")
 		(property "Reference" "J3"
-			(at 116.84 105.4099 0)
+			(at 116.84 64.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2998,8 +3124,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MOS-"
-			(at 116.84 107.9499 0)
+		(property "Value" "MOS+"
+			(at 116.84 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3007,8 +3133,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Akizuki_ScrewTerminal:ScrewTerminal_01x01_PCB-20"
-			(at 113.665 106.68 0)
+		(property "Footprint" "AM_Conn_ScrewTerminal:ScrewTerminal_01x01_PCB-20"
+			(at 114.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3017,7 +3143,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.665 106.68 0)
+			(at 114.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3026,7 +3152,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.665 106.68 0)
+			(at 114.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3037,7 +3163,7 @@
 			(uuid "bc7dd8e6-f407-4ce7-bdd3-e9920946810f")
 		)
 		(instances
-			(project ""
+			(project "Main_MOSFET_Cooler"
 				(path "/c8b30e07-a7f6-4772-ae04-7a7a7d27b121"
 					(reference "J3")
 					(unit 1)
